@@ -40,9 +40,9 @@ I'm **Varad Joshi**, a hacker & Learner. I'm on my way to becoming a **Cybersecu
 
 👉 Currently Learning Bug Bounty Hunting & Penetration Testing.
 
-👉 Programming Bash, Python, JavaScript & PHP
+👉 Programming: Bash, Python, JavaScript & PHP
 
-👉 Exploring Burp, Metaspolit, WireShark etc
+👉 Exploring Burp, Metaspolit, WireShark, etc
 
 👉 Always Eager to learn new Attack Techniques
 
