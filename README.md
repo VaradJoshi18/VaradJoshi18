@@ -12,7 +12,7 @@
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>
 
-<a href="varadjoshi13@gmail.com">
+<a href="mailto:varadjoshi13@gmail.com">
   <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_(2020).svg"/>
 </a>
 
