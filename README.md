@@ -1,4 +1,24 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+</p>
 
+<h1 align="center">
+  Let's Connect and have a Chat!💬
+</h1>
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/thepiyushmalhotra/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+</a>
+
+<a href="https://www.instagram.com/thepiyushmalhotra/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+</a>
+
+</p>
+
+---
 <p align="center"><img src="https://github.com/user-attachments/assets/e26d1d6a-30ee-488e-90ca-11b3aa180148" width="100%" height="auto"/></p>
 
 <div align="center">
@@ -40,9 +60,9 @@ I'm **Varad Joshi**, a hacker & Learner. I'm on my way to becoming a **Cybersecu
 
 👉 Currently Learning Bug Bounty Hunting & Penetration Testing.
 
-👉 Programming: Bash, Python, JavaScript & PHP
+👉 Programming Bash, Python, JavaScript & PHP
 
-👉 Exploring Burp, Metaspolit, WireShark, etc
+👉 Exploring Burp, Metaspolit, WireShark etc
 
 👉 Always Eager to learn new Attack Techniques
 
@@ -147,6 +167,18 @@ I'm **Varad Joshi**, a hacker & Learner. I'm on my way to becoming a **Cybersecu
 
 <br><br>
 
+
+## 📊 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aestdile&theme=tokyo-night&hide_border=true" width="100%" />
+</div>
+
+<hr style="border: 1px solid gray; width: 100%;">
+
+
+<br>
+
 <!-- Snake Game Repo View -->
 
 <div align="center">
@@ -164,4 +196,8 @@ I'm **Varad Joshi**, a hacker & Learner. I'm on my way to becoming a **Cybersecu
 
 <p align="center">
 <a>💚</a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
