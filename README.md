@@ -171,7 +171,7 @@ I'm **Varad Joshi**, a hacker & Learner. I'm on my way to becoming a **Cybersecu
 ## 📊 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aestdile&theme=tokyo-night&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VaradJoshi18&theme=tokyo-night&hide_border=true" width="100%" />
 </div>
 
 <hr style="border: 1px solid gray; width: 100%;">
