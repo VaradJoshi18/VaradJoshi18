@@ -13,7 +13,7 @@
 </a>
 
 <a href="varadjoshi13@gmail.com">
-  <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_(2020).svg"/>
+  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_(2020).svg"/>
 </a>
 
 </p>
